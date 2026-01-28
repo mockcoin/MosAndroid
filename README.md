@@ -3,7 +3,7 @@
 Introduction​
  
 This project is a mobile management client tool specifically developed for JSRUN MOS. 
-![截图](./blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260128150740_98_15.jpg)
+![截图](./%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260128150740_98_15.jpg)
 
 
 ## APK Download
